@@ -1,0 +1,23 @@
+# Twitter OAuth Local Setting
+twitter_key:    "DUVcmSj94mFlTgoUNVw3g"
+twitter_secret: "6UsrXUMN01Ql7lJUzq0VIt7DmMEA4gFoaR1WQjWiO0"
+
+# Facebook OAuth Setting
+facebook_app_id:     "210878432336905"
+facebook_app_secret: "b15804d73d087509bbc1d845da5a3832"
+
+# GitHub OAuth Setting
+github_client_id: "f2a065e501c508a5364e"
+github_secret:    "00f3a4c9c1d9d5ecc8c327e18e045febf7899013"
+
+# Instagram OAuth Setting
+instagram_id:     '25271627644447ebb78f787f4424ea3e'
+instagram_secret: 'fc62f2aa11c743bca80718ec0b4ea31a'
+
+# Google OAuth Setting
+google_client_id:     '1022486274570-hb3a4lv80v0hdvgja9fgsgpvvkkqik49.apps.googleusercontent.com'
+google_client_secret: 'cpHSHrftnDJ9c-3kpXSyLOn2'
+omniauth_full_host:   'http://localhost:3000'
+
+# YouTube
+youtube_api_key: 'AIzaSyDJOuUt_LxRl7KZyR0SYEHSWZlALlj-x5Q'
