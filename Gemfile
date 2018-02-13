@@ -68,6 +68,8 @@ gem 'ridgepole'
 gem 'redcarpet'
 gem 'coderay'
 
+gem 'ethereum.rb'
+
 group :development do
   gem 'pry-rails'
   gem 'colorize_unpermitted_parameters'

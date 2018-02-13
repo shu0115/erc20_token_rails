@@ -77,6 +77,7 @@ GEM
     crass (1.0.3)
     deep_merge (1.1.1)
     diffy (3.2.0)
+    digest-sha3 (1.1.0)
     dry-configurable (0.7.0)
       concurrent-ruby (~> 1.0)
     dry-container (0.6.0)
@@ -107,6 +108,9 @@ GEM
     erubi (1.7.0)
     erubis (2.7.0)
     escape_utils (1.2.1)
+    ethereum.rb (2.1.8)
+      activesupport (~> 5.0)
+      digest-sha3 (~> 1.1)
     exception_notification (4.2.2)
       actionmailer (>= 4.0, < 6)
       activesupport (>= 4.0, < 6)
@@ -339,6 +343,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   colorize_unpermitted_parameters
   config
+  ethereum.rb
   exception_notification
   faml
   haml-rails
